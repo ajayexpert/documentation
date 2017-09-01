@@ -885,7 +885,7 @@ h6 {
   #subscribe .border .mail-icon {
     font-size: 3em; }
   #subscribe .border-btm::before {
-    background: url("http://www.coderare.com/new/img/zig-zag-dark.png") no-repeat;
+    background: url("coming-soon/css/img/zig-zag-dark.png") no-repeat;
     content: '';
     position: absolute;
     text-align: center;
@@ -1796,7 +1796,7 @@ footer {
   content: '';
   position: absolute;
   bottom: -50px;
-  background: url("http://www.coderare.com/new/img/zig-zag-dark.png") no-repeat;
+  background: url("coming-soon/css/img/zig-zag-dark.png") no-repeat;
   width: 100px;
   height: 13px; }
 
